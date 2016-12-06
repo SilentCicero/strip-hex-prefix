@@ -3,5 +3,4 @@
 1. Basic testing
 2. Basic docs
 3. License
-4. linting
-5. basic exports
+4. basic exports

@@ -36,9 +36,7 @@
 
 <br />
 
-A simple method to strip the hex prefix of a string, if present.
-
-Will bypass if not a string.
+A simple method to strip the hex prefix of a string, if present. Note, this method will bypass if not a string.
 
 ## Install
 
