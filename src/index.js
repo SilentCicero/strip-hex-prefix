@@ -1,7 +1,7 @@
 var isHexPrefixed = require('is-hex-prefixed');
 
 /**
- * Removes '0x' from a given `String` is present
+ * Removes '0x' from a given `String` if present
  * @param {String} str the string value
  * @return {String|Optional} a string by pass if necessary
  */
